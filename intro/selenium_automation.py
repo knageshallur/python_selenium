@@ -7,4 +7,6 @@ time.sleep(5)
 print(driver.title)
 print(driver.get_current_url)
 print(driver.page_source)
+
+print("byeee")
 driver.quite()
